@@ -1,4 +1,5 @@
-<a href="https://portfolio-nine-zeta-y2c788c9y4.vercel.app"><img src="./assets/hero.svg" width="100%" alt="Saksham Verma. Agents, offline-first AI and backends that keep working. Open to SDE and AI/ML internships."></a>
+<h1 align="center">Saksham Verma</h1>
+<p align="center"><b>Software Engineering @ DTU</b> · AI agents, offline-first AI and resilient backends · open to <b>SDE &amp; AI/ML internships</b></p>
 
 <p align="center">
   <a href="https://portfolio-nine-zeta-y2c788c9y4.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-34d399?style=for-the-badge&labelColor=060807&logo=vercel&logoColor=white" alt="Portfolio"></a>
@@ -118,43 +119,7 @@ Voice-first maternal risk triage that works where the internet doesn't. Gemma E2
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Black Hole Ray Tracer](https://github.com/saksham-eng560/blackhole_simulator) &nbsp;·&nbsp; C++17
-Real-time general-relativistic rendering in the terminal: null geodesics through Schwarzschild spacetime with **RK4**, Doppler-beamed accretion disk, multithreaded at 60 FPS in ANSI truecolor.
-
-`C++17` `CMake` `std::thread`
-<br>[Source](https://github.com/saksham-eng560/blackhole_simulator)
-
-</td>
-<td width="50%" valign="top">
-
-### [Keyline API Key Vault](https://github.com/saksham-eng560/api-manager) &nbsp;·&nbsp; backend
-Encrypted vault for API keys: OAuth2/JWT auth, **Fernet** encryption at rest, PBKDF2 password hashing, per-user REST endpoints over PostgreSQL.
-
-`FastAPI` `SQLAlchemy` `PostgreSQL` `JWT`
-<br>[Source](https://github.com/saksham-eng560/api-manager) · [Live](https://api-manager-p192.onrender.com/)
-
-</td>
-</tr>
 </table>
-
-<details>
-<summary><b>More projects</b></summary>
-<br>
-
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [AxisIQ Control Tower](https://github.com/saksham-eng560/supply-chain-google-solution) | Live supply-chain risk scoring and condition-aware rerouting from weather, traffic and hazard feeds (Google Solution Challenge) | FastAPI · Leaflet · Docker · Gemini |
-| [Jaltaranga](https://github.com/saksham-eng560/jaltaranga) | Flood forecasting and evacuation routing that avoids submerged roads (WeMakeDevs × AWS) | Python · AWS SAM · Bedrock · Polly |
-| [Viveka](https://github.com/saksham-eng560/viveka) | Private, on-device focus companion for macOS with a local LLM | TypeScript · Python · Swift |
-| [Player Movement Heatmaps](https://github.com/saksham-eng560/Synapse-HeatMap-Model) | YOLOv8 player tracking turned into per-player and team heatmaps | YOLOv8 · OpenCV · Pandas |
-| [Academic Lens](https://github.com/saksham-eng560/Final-DS-project-Management) | Results dashboard on hand-written BSTs, heaps and merge sort | FastAPI · SQLAlchemy |
-| [DSA Music Player](https://github.com/saksham-eng560/Music-Player) | Music player whose playlist is a doubly linked list | FastAPI · JavaScript |
-| [DSA_PRAC](https://github.com/saksham-eng560/DSA_PRAC) | My C++ data-structures and algorithms practice | C++ |
-
-</details>
 
 ## 🏆 Achievements & programs
 
@@ -162,10 +127,6 @@ Encrypted vault for API keys: OAuth2/JWT auth, **Fernet** encryption at rest, PB
 - 🌱 **Active Contributor**, GirlScript Summer of Code 2026
 - 🛰️ Smart India Hackathon 2026 &nbsp;·&nbsp; 🌍 Google Solution Challenge 2026 &nbsp;·&nbsp; 💗 Gemma 4 Good &nbsp;·&nbsp; ☁️ WeMakeDevs × AWS Bharat Builds Tour
 - 🧠 LeetCode badges: **100 Days 2026**, **50 Days 2026**, **Top SQL 50**
-
-## 🧩 Problem solving
-
-<a href="https://leetcode.com/u/sakshamver/"><img src="./assets/leetcode.svg" width="100%" alt="LeetCode: 368 solved (135 easy, 197 medium, 36 hard), contest rating 1560, top 30.87%, beats 98.2% of users, 36-day best streak."></a>
 
 ## 📈 GitHub activity
 
