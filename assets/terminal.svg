@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="t d">
+  <title id="t">whoami</title>
+  <desc id="d">Saksham Verma: B.Tech Software Engineering at DTU. Building HireFlow, AGEX and offline-first AI. Interested in AI agents, backend systems, DevOps and competitive programming.</desc>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, "JetBrains Mono", Menlo, Consolas, monospace; font-size: 17px; fill: #d3dbd5; white-space: pre; }
+    .p { fill: #34d399; } .k { fill: #6ee7b7; } .m { fill: #849089; } .w { fill: #ffffff; } .y { fill: #fbbf24; } .c { fill: #22d3ee; }
+    .l { opacity: 0; animation: show 24s steps(1) infinite; }
+    @keyframes show { 0% { opacity: 0; } 2% { opacity: 1; } 92% { opacity: 1; } 96% { opacity: 0; } 100% { opacity: 0; } }
+    .caret { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .l { animation: none; opacity: 1; } }
+  </style>
+  <rect x="1" y="1" width="1198" height="398" rx="16" fill="#0a100c" stroke="#ffffff" stroke-opacity="0.1"/>
+  <path d="M1 17a16 16 0 0 1 16-16h1166a16 16 0 0 1 16 16v27H1z" fill="#0e1611"/>
+  <circle cx="28" cy="22" r="6" fill="#fb7185"/><circle cx="48" cy="22" r="6" fill="#fbbf24"/><circle cx="68" cy="22" r="6" fill="#34d399"/>
+  <text x="600" y="28" text-anchor="middle" class="m" style="font-size:13px">saksham@dtu: ~</text>
+
+  <g transform="translate(32 80)">
+    <text class="l" style="animation-delay:0.2s"><tspan class="p">➜</tspan> <tspan class="c">~</tspan> <tspan class="w">whoami</tspan></text>
+    <text class="l" y="28" style="animation-delay:0.9s"><tspan class="k">name</tspan>      <tspan class="w">Saksham Verma</tspan> <tspan class="m">· B.Tech Software Engineering @ Delhi Technological University (2025–29) · 8.8 CGPA</tspan></text>
+    <text class="l" y="56" style="animation-delay:1.5s"><tspan class="k">building</tspan>  HireFlow <tspan class="m">(AI internship agent)</tspan> · AGEX <tspan class="m">(12-agent Claude Code orchestrator)</tspan> · Viveka</text>
+    <text class="l" y="84" style="animation-delay:2.1s"><tspan class="k">into</tspan>      AI agents · offline-first / on-device LLMs · backend systems · DevOps · C++ CP</text>
+    <text class="l" y="112" style="animation-delay:2.7s"><tspan class="k">likes</tspan>     the unglamorous parts: software that works when the network doesn't</text>
+    <text class="l" y="140" style="animation-delay:3.3s"><tspan class="k">now</tspan>       GSSoC 2026 contributor · LeetCode <tspan class="y">368</tspan> solved · rating <tspan class="y">1560</tspan> (top 30.87%)</text>
+
+    <text class="l" y="188" style="animation-delay:4.4s"><tspan class="p">➜</tspan> <tspan class="c">~</tspan> <tspan class="w">cat goals.txt</tspan></text>
+    <text class="l" y="216" style="animation-delay:5.1s"><tspan class="m">[1]</tspan> land an <tspan class="w">SDE / backend / AI-ML internship</tspan></text>
+    <text class="l" y="244" style="animation-delay:5.6s"><tspan class="m">[2]</tspan> ship agent systems that are <tspan class="w">evaluated</tspan>, not just demoed</text>
+    <text class="l" y="272" style="animation-delay:6.1s"><tspan class="m">[3]</tspan> go deep on <tspan class="w">scalable systems</tspan>, distributed backends and infra</text>
+
+    <text class="l" y="300" style="animation-delay:7.0s"><tspan class="p">➜</tspan> <tspan class="c">~</tspan> <tspan class="caret w">▋</tspan></text>
+  </g>
+</svg>
